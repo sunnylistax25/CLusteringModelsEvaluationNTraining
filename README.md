@@ -1,1 +1,1 @@
-# CLusteringModelsEvaluationNTraining
+# ClusteringModelsEvaluationNTraining
